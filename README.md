@@ -79,7 +79,7 @@ This script is intended for **educational and authorized penetration testing** p
 
 ---
 
-### 🏗 Future Improvements
+### Future Improvements
 
   Add automatic detection of all devices on the network\
   Implement support for **MitM proxying**\
