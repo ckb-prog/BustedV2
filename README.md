@@ -37,7 +37,7 @@ sudo apt update && sudo apt install dsniff tshark net-tools -y
 ### 1️. Run the Script
 
 ```bash
-sudo ./busted_multi_target.sh
+sudo ./BustedV2.sh
 ```
 
 **This script must be run as root** (or using `sudo`).
